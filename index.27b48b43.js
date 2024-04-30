@@ -1,0 +1,2 @@
+document.querySelector(".icon--menu").addEventListener("click",function(){document.body.style.overflow="hidden"}),document.querySelector(".icon--close").addEventListener("click",function(){document.body.style.overflow=""});for(var e=document.querySelectorAll(".nav__link"),o=1;o<=5;o++)e[o].addEventListener("click",function(){document.body.style.overflow=""});
+//# sourceMappingURL=index.27b48b43.js.map
